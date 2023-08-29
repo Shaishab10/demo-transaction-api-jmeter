@@ -9,10 +9,9 @@
 
 
 ## How to run this project:
-- clone this project
-- Give following command:
-- ``` npm i ```
-- ``` npm test ```
+- Clone this project
+- ```Open this dmoney-transaction-api.jmx file in jmeter```
+- ```run```
 
 ## Test Report
 ![screencapture-file-D-CSE-SDET-Assignment-dmoney-transaction-api-jmeter-Reports-dmoney-transaction-index-html-2023-08-29-12_06_37](https://github.com/Shaishab10/demo-transaction-api-jmeter/assets/54171379/ed2dc539-03fa-466c-a149-afb678c84bf2)
