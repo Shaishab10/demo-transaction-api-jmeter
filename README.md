@@ -11,7 +11,7 @@
 ## How to run this project:
 - Clone this project
 - put the jmx file the bin folder of the jmeter installation path
-- open cmd and hit the following command ```jmeter```
+- open cmd and hit the following command  ```jmeter```
 - from jmeter open the file from the bin and hit the run button
 
 ## Test Report
