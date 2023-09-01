@@ -7,6 +7,9 @@
 ## Tools & Technology used:
 - Apache jmeter
 
+## Pre-Requisite
+- jdk
+
 
 ## How to run this project:
 - Clone this project
