@@ -7,7 +7,7 @@
 ## Tools & Technology used:
 - Apache jmeter
 
-## Pre-Requisite
+## Pre-Requisites
 - jdk
 
 
